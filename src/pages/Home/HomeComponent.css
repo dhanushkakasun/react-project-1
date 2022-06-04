@@ -1,0 +1,17 @@
+.hc-image1{
+    width: 100%;
+    height: 100%;
+    
+}
+.hc-ht{
+    text-align: center;
+    background-color: #27d989;
+    font-family: 'Roboto', sans-serif;
+    color: #1724bd;
+
+}
+.main-container{
+    background-color: aquamarine;
+    width: 100%;
+    height: 100vh;
+}
